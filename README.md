@@ -1,4 +1,4 @@
-### Hi, I'm Seshu 👋
+### Hi, I'm Seshu K 👋
 
 DevOps Engineer & SRE, 6+ years working across Azure. I keep production systems up and predictable - automating CI/CD pipelines, provisioning infrastructure with Terraform and ARM templates, and figuring out what broke when things don't behave.
 
